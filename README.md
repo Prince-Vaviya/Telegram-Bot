@@ -29,5 +29,3 @@ This bot some text messages and Handles text messages with custom replies
 
       TOKEN: Final = "<YOUR BOT ACCESS TOKEN>"
       BOT_USERNAME: Final = "@<YOUR BOT USERNAME>"
-
-

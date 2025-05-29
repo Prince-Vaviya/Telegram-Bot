@@ -28,4 +28,5 @@ This bot some text messages and Handles text messages with custom replies
     - Replace the following placeholders:
 
       TOKEN: Final = "<YOUR_BOT_ACCESS_TOKEN>"
+      
       BOT_USERNAME: Final = "@<YOUR_BOT_USERNAME>"

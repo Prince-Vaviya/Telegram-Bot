@@ -27,5 +27,5 @@ This bot some text messages and Handles text messages with custom replies
     - Open the Python file.
     - Replace the following placeholders:
 
-      TOKEN: Final = "<YOUR BOT ACCESS TOKEN>"
-      BOT_USERNAME: Final = "@<YOUR BOT USERNAME>"
+      TOKEN: Final = "<YOUR_BOT_ACCESS_TOKEN>"
+      BOT_USERNAME: Final = "@<YOUR_BOT_USERNAME>"
